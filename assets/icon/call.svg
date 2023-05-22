@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="43" viewBox="0 0 42 43">
+  <g id="call" transform="translate(-623 -268)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(623 268)" fill="none" stroke="#26de12" stroke-width="1">
+      <ellipse cx="21" cy="21.5" rx="21" ry="21.5" stroke="none"/>
+      <ellipse cx="21" cy="21.5" rx="20.5" ry="21" fill="none"/>
+    </g>
+    <g id="Communication_Phone" data-name="Communication / Phone" transform="translate(629.552 275.053)">
+      <path id="Vector" d="M11.271,4.6A2.544,2.544,0,0,0,8.909,3H5.41A2.41,2.41,0,0,0,3,5.41,20.485,20.485,0,0,0,23.485,25.895a2.41,2.41,0,0,0,2.41-2.41v-3.5a2.544,2.544,0,0,0-1.6-2.362l-3.353-1.341a2.544,2.544,0,0,0-2.573.407l-.865.722a2.545,2.545,0,0,1-3.428-.155l-2.437-2.439a2.544,2.544,0,0,1-.157-3.427l.722-.865a2.544,2.544,0,0,0,.409-2.573Z" transform="translate(0 0)" fill="#26de12"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="43" viewBox="0 0 41 43">
+  <g id="lance" transform="translate(-330 -268)">
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(330 268)" fill="#ec3434" stroke="#ec3434" stroke-width="1">
+      <rect width="41" height="43" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40" height="42" rx="19.5" fill="none"/>
+    </g>
+    <g id="SVGRepo_iconCarrier" transform="translate(333.542 273.419)">
+      <path id="Path_5606" data-name="Path 5606" d="M24.509,23.06h3.1V7.551A1.551,1.551,0,0,0,26.06,6H10.551A1.551,1.551,0,0,0,9,7.551V23.06H19.857" transform="translate(3.306)" fill="#ec3434" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5607" data-name="Path 5607" d="M13,12.1h3.1m0,0h3.1m-3.1,0V9m0,3.1v3.1" transform="translate(5.509 1.653)" fill="#ec3434" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5608" data-name="Path 5608" d="M12.306,9H8.3a1.551,1.551,0,0,0-1.1.454L3.454,13.2A1.551,1.551,0,0,0,3,14.3v7.112H6.1" transform="translate(0 1.653)" fill="#ec3434" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_156" data-name="Ellipse 156" cx="2.5" cy="2.5" r="2.5" transform="translate(23 21.162)" fill="#ec3434" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_157" data-name="Ellipse 157" cx="2.5" cy="2.5" r="2.5" transform="translate(6 21.162)" fill="#ec3434" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

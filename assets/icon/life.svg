@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="43" viewBox="0 0 41 43">
+  <g id="life" transform="translate(-330 -268)">
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(330 268)" fill="#ec3434" stroke="#ec3434" stroke-width="1">
+      <rect width="41" height="43" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40" height="42" rx="19.5" fill="none"/>
+    </g>
+    <g id="SVGRepo_iconCarrier" transform="translate(127.251 275.165)">
+      <path id="Path_5612" data-name="Path 5612" d="M303.888,6.03a4.881,4.881,0,1,0-4.881,4.879A4.88,4.88,0,0,0,303.888,6.03Zm1.146,0A6.027,6.027,0,1,1,299.008,0,6.027,6.027,0,0,1,305.035,6.03Z" transform="translate(-75.758 0)" fill="none" stroke="#f1f1f1" stroke-width="1"/>
+      <path id="Path_5613" data-name="Path 5613" d="M229.452,406.232a.864.864,0,0,0,.86-.86v-9.444a5.176,5.176,0,0,0-5.159-5.159h-3.807a5.176,5.176,0,0,0-5.159,5.159v9.444a.864.864,0,0,0,.86.86Zm0,1.146H217.046a2.01,2.01,0,0,1-2.006-2.006v-9.444a6.322,6.322,0,0,1,6.306-6.306h3.807a6.322,6.322,0,0,1,6.306,6.306v9.444A2.01,2.01,0,0,1,229.452,407.378Z" transform="translate(0 -378.713)" fill="none" stroke="#f1f1f1" stroke-width="1"/>
+      <path id="Path_5614" data-name="Path 5614" d="M450.361,512.951a2.517,2.517,0,0,1,0,3.579l-2.44,2.42a1.069,1.069,0,0,1-1.5,0l-2.44-2.42a2.517,2.517,0,0,1,0-3.58,15.764,15.764,0,0,1,6.384,0Zm-.807,2.765a1.371,1.371,0,0,0,0-1.951,1.409,1.409,0,0,0-1.981,0l-.4.4-.4-.4a1.41,1.41,0,0,0-1.981,0,1.371,1.371,0,0,0,0,1.952l2.385,2.365Z" transform="translate(-221.803 -497.871)" fill="none" stroke="#f1f1f1" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

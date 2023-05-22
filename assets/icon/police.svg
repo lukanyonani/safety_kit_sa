@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="43" viewBox="0 0 41 43">
+  <g id="police" transform="translate(-330 -268)">
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(330 268)" fill="#ec3434" stroke="#ec3434" stroke-width="1">
+      <rect width="41" height="43" rx="20.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40" height="42" rx="20" fill="none"/>
+    </g>
+    <g id="SVGRepo_iconCarrier" transform="translate(334.921 273.75)">
+      <path id="Path_5604" data-name="Path 5604" d="M4,29.5V27.329a7.96,7.96,0,0,1,7.961-7.961H19.2a7.96,7.96,0,0,1,7.961,7.961V29.5m-17.368,0V25.882M21.368,29.5V25.64M10.513,8.513a7.784,7.784,0,0,0,10.132,0m.724.724v-3L23.49,3.132A.724.724,0,0,0,22.892,2H8.266a.724.724,0,0,0-.6,1.132L9.789,6.237v3m11.579,1.447a5.789,5.789,0,0,1-11.579,0V7.066H21.368Z" fill="#f1f1f1"/>
+    </g>
+  </g>
+</svg>

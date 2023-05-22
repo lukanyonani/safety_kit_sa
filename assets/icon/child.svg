@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="43" viewBox="0 0 41 43">
+  <g id="child" transform="translate(-330 -268)">
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(330 268)" fill="#ec3434" stroke="#ec3434" stroke-width="1">
+      <rect width="41" height="43" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40" height="42" rx="19.5" fill="none"/>
+    </g>
+    <g id="SVGRepo_iconCarrier" transform="translate(339.737 275.15)">
+      <path id="Path_5605" data-name="Path 5605" d="M6.727,4.036a4.036,4.036,0,1,1,4.036,4.036A4.036,4.036,0,0,1,6.727,4.036ZM21,4.113a1.794,1.794,0,0,0-2.537,0L13.607,8.969H7.918L3.062,4.113A1.794,1.794,0,0,0,.526,6.65l5.3,5.3V26.906A1.794,1.794,0,0,0,7.624,28.7h.9a1.794,1.794,0,0,0,1.794-1.794V20.628h.9v6.278A1.794,1.794,0,0,0,13,28.7h.9A1.794,1.794,0,0,0,15.7,26.906V11.954L21,6.65A1.794,1.794,0,0,0,21,4.113Z" transform="translate(0)" fill="#f1f1f1"/>
+    </g>
+  </g>
+</svg>
