@@ -1,16 +1,32 @@
-# safety_kit_sa
+# Safety Kit SA
 
-A new Flutter project.
+A Flutter app that puts South African emergency numbers (Police, Ambulance, Fire Brigade, Emergency, Lifeline, and more) one tap away, plus a place to store your own personal emergency contacts.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- One-tap dialing to national emergency services via `flutter_phone_direct_caller`
+- Add and manage personal emergency contacts
+- Search for a contact or service quickly
+- Local persistence with `get_storage`
 
-A few resources to get you started if this is your first Flutter project:
+## Tech stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** with **GetX** for state management, routing, and dependency injection
+- `flutter_svg` for icons, `curved_navigation_bar` for navigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project layout
+
+```
+lib/
+  controllers/    # GetX controllers
+  data/model/     # Contact and user models
+  views/          # Home, profile, and search screens
+  widgets/         # Emergency numbers and contacts widgets
+```
+
+## Getting started
+
+```bash
+flutter pub get
+flutter run
+```
